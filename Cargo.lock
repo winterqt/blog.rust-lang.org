@@ -47,9 +47,9 @@ checksum = "8ae3f5d315924270530207e2a68396c3cc547f6dca3fbdca317cfb1a51edb593"
 
 [[package]]
 name = "cc"
-version = "1.2.65"
+version = "1.2.66"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "e228eec9be7c17ccb640b59b36a5cd805ea2a564a4c5e162c2f659fea30d3b96"
+checksum = "f5d6cac793997bd970000024b2934968efe83b382de4fdcf4fcb46b6ee4ad996"
 dependencies = [
  "find-msvc-tools",
  "shlex",
@@ -63,9 +63,9 @@ checksum = "9330f8b2ff13f34540b44e946ef35111825727b38d33286ef986142615121801"
 
 [[package]]
 name = "console"
-version = "0.16.3"
+version = "0.16.4"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "d64e8af5551369d19cf50138de61f1c42074ab970f74e99be916646777f8fc87"
+checksum = "4fe5f465a4f6fee88fad41b85d990f84c835335e85b5d9e6e63e0d06d28cba7c"
 dependencies = [
  "encode_unicode",
  "libc",
@@ -710,7 +710,7 @@ dependencies = [
 [[package]]
 name = "rust_team_data"
 version = "1.0.0"
-source = "git+https://github.com/rust-lang/team#126b56cb301a5940e61ce59be13e4a1c349b95c1"
+source = "git+https://github.com/rust-lang/team#90246009bb900d377873619e7614e72844a9f490"
 dependencies = [
  "indexmap",
  "serde",
